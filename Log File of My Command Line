@@ -1,0 +1,9 @@
+# Updated-Solution
+
+harish@harish-c-s:~/Programming/Linumiz-Solution$ gcc Linumiz-Assessment.c -o Solution
+harish@harish-c-s:~/Programming/Linumiz-Solution$ ./Solution hello world
+
+ Name of the File is : ./Solution
+ Number of the Arguments given are : 2
+ Now Each Words are being Reversed : olleh dlrow 
+harish@harish-c-s:~/Programming/Linumiz-Solution$ 
